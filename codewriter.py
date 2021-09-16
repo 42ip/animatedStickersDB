@@ -8,13 +8,12 @@ with open(sys.path[0] + '/stickers.json', 'r+') as openfile:
     # Reading from json file
     json_object = json.load(openfile)
     d = json_object
-h = True
+f.write("{{if eq $a \"stickers\" }}");f.write("\n")
+arr = sorted(d.keys())
+f.write(" ".join(arr))
+f.write("\n")
 for key in d:
-      if h:
-        f.write("{");f.write("{{if eq $a \"{}\" }}".format(key));f.write("}");f.write("\n")
-        h = False
-      else:
-          f.write("{");f.write("{{else if eq $a \"{}\" }}".format(key));f.write("}");f.write("\n")
+      f.write("{");f.write("{{else if eq $a \"{}\" }}".format(key));f.write("}");f.write("\n")
       f.write("\t");f.write(d[key]);f.write("\n")
 f.write("{{end}}")
 
