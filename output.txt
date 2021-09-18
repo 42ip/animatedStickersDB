@@ -1,6 +1,6 @@
 {{$a :=  index .CmdArgs 0 }} 
 {{if eq $a "stickers" }}
-ahegao angryping blobdance bonk bopcorn catcry catface cathypervibe catree catultravibe catvibe choggers coffeeman cool coomercat crydrink danceanim dancecat danceduck dankies dap depression fight flush getsomehelp goodbye hyper hyperneko jumpcat kek kickout kirbydance mad myman nou okayudance pain party peepoclap peped pray rgbnou runanime sad sadhorn sadpat simp stuff sus umaru usewhenprashspeaks uwu vibe waa wave weeb wha whaaa whoasked wildchan wtf yay yellowman
+ahegao angrycarrot angryping blobdance bonk bopcorn carpt catcry catface cathypervibe catree catultravibe catvibe choggers coffeeman cool coomercat crydrink danceanim dancecat danceduck dankies dap depression empty fight flush funi getsomehelp goodbye hecker hyper hyperneko jumpcat kek kickout kirbydance mad myman nou okayudance pain party peepoclap peped pray rgbnou runanime sad sadhorn sadpat simp stuff sus umaru usewhenprashspeaks uwu vibe waa wave weeb wha whaaa whoasked wildchan wtf yay yellowman
 {{else if eq $a "catface" }}
 	https://images-ext-2.discordapp.net/external/DOH9pb4KrTe2p3K8OtShrM34IKkNKi9pj1klbV2Ils4/%3Fv%3D1%26size%3D40/https/cdn.discordapp.com/emojis/857412253146284052.png
 {{else if eq $a "usewhenprashspeaks" }}
@@ -127,4 +127,14 @@ ahegao angryping blobdance bonk bopcorn catcry catface cathypervibe catree catul
 	https://cdn.discordapp.com/emojis/755834753940324383.png?v=1
 {{else if eq $a "coomercat" }}
 	https://cdn.discordapp.com/emojis/681926628628103168.png?v=1
+{{else if eq $a "carpt" }}
+	https://c.tenor.com/jXmlvMOx5UoAAAAC/carrot-im-a-carrot.gif
+{{else if eq $a "angrycarrot" }}
+	https://thumbs.gfycat.com/AgreeableShockingHalibut-max-1mb.gif
+{{else if eq $a "funi" }}
+	https://cutewallpaper.org/21/weird/Weird-GIFs-Tenor.gif
+{{else if eq $a "hecker" }}
+	https://c.tenor.com/6InrnT04tvEAAAAC/hecker.gif
+{{else if eq $a "empty" }}
+	https://i1.wp.com/media2.giphy.com/media/1L5YuA6wpKkNO/giphy.gif
 {{end}}
