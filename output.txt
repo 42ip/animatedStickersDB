@@ -1,6 +1,6 @@
 {{$a :=  index .CmdArgs 0 }} 
 {{if eq $a "stickers" }}
-ahegao angrycarrot angryping blobdance bonk bopcorn carpt catcry catface cathypervibe catree catultravibe catvibe choggers coffeeman cool coomercat crydrink danceanim dancecat danceduck dankies dap depression empty fight flush funi getsomehelp goodbye hecker hyper hyperneko jumpcat kek kickout kirbydance mad myman nou okayudance pain party peepoclap peped pray rgbnou runanime sad sadhorn sadpat simp stuff sus umaru usewhenprashspeaks uwu vibe waa wave weeb wha whaaa whoasked wildchan wtf yay yellowman
+ahegao angrycarrot angryping blobdance bonk bopcorn carpt catcry catface cathypervibe catree catultravibe catvibe choggers coffeeman cool coomercat crydrink danceanim dancecat dancedood danceduck dankies dap depression drake empty fight flush funi getsomehelp goodbye hecker hyper hyperneko jumpcat kek kickout kirbydance kittypet mad mryeshappy myman nou okayudance pain party peepoclap peped pray ragej rgbnou runanime sad sadcat sadhorn sadpat scared simp stuff sus thanos tonybhau umaru usewhenprashspeaks uwu vibe vibin waa wave weeb wha whaaa whoasked wildchan wtf yay yellowman
 {{else if eq $a "catface" }}
 	https://images-ext-2.discordapp.net/external/DOH9pb4KrTe2p3K8OtShrM34IKkNKi9pj1klbV2Ils4/%3Fv%3D1%26size%3D40/https/cdn.discordapp.com/emojis/857412253146284052.png
 {{else if eq $a "usewhenprashspeaks" }}
@@ -137,4 +137,24 @@ ahegao angrycarrot angryping blobdance bonk bopcorn carpt catcry catface cathype
 	https://c.tenor.com/6InrnT04tvEAAAAC/hecker.gif
 {{else if eq $a "empty" }}
 	https://i1.wp.com/media2.giphy.com/media/1L5YuA6wpKkNO/giphy.gif
+{{else if eq $a "kittypet" }}
+	https://cdn.discordapp.com/emojis/807179657711190036.gif?v=1
+{{else if eq $a "tonybhau" }}
+	https://cdn.discordapp.com/emojis/857442591376015382.gif?v=1
+{{else if eq $a "drake" }}
+	https://cdn.discordapp.com/emojis/623916666413383699.gif?v=1
+{{else if eq $a "mryeshappy" }}
+	https://cdn.discordapp.com/emojis/852807252422164480.gif?v=1
+{{else if eq $a "ragej" }}
+	https://cdn.discordapp.com/emojis/760909925844647936.gif?v=1
+{{else if eq $a "dancedood" }}
+	https://cdn.discordapp.com/emojis/866343950130741268.gif?v=1
+{{else if eq $a "vibin" }}
+	https://cdn.discordapp.com/emojis/824346240845348895.gif?v=1
+{{else if eq $a "scared" }}
+	https://cdn.discordapp.com/emojis/734445168350068768.png?v=1
+{{else if eq $a "thanos" }}
+	https://cdn.discordapp.com/emojis/703086921982672916.png?v=1
+{{else if eq $a "sadcat" }}
+	https://cdn.discordapp.com/emojis/703086921873621012.png?v=1
 {{end}}
