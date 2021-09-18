@@ -6,5 +6,6 @@ def mdMaker(connections : dict):
         # print(1)
         mdFile.new_header(level=1,title=k)
         mdFile.new_paragraph(Html.image(path=v))
+        mdFile.new_line()
     mdFile.create_md_file()
     
