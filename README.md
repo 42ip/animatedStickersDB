@@ -6,5 +6,6 @@
 
 This repo contains all the stickers used in 42ip's custom command in the stickers.json file for reference. if you want to add any stickers run the adder.py program, then codewriter.py program, and copy the output.txt file contents into the custom command box in yag.
 
+You can view the stickers [here](https://github.com/42ip/animatedStickersDB/blob/main/Stickers.md)
 ## Installation
 ```pip install mdutils```
