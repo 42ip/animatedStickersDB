@@ -1,4 +1,5 @@
 # loop to add emojis to the .json file.
+from mdMaker import mdMaker
 import json,sys
 d = dict()
 
@@ -21,3 +22,4 @@ while cont != "100":
 obj = json.dumps(d,indent= 1)
 with open(sys.path[0] + "/stickers.json", "w") as outfile:
     outfile.write(obj)
+mdMaker(d)
