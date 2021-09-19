@@ -1,6 +1,6 @@
 {{$a :=  index .CmdArgs 0 }} 
 {{if eq $a "stickers" }}
-ahegao angery angrycarrot angryping blobdance bonk bopcorn carpt catcry catface cathypervibe catree catultravibe catvibe choggers cofe cofexphile coffeeman cool coomercat crydrink danceanim dancecat dancedood danceduck dankies dap depression dio drake empty fight flush funi getsomehelp goodbye happy hecker hitprash hyper hyperneko jumpcat kek kickout kirbydance kittypet mad mryeshappy myman nou okayudance omg pain party peped pgp phile prash pray ragej rgbnou runanime sad sadcat sadhorn sadpat scared si67 simp stuff sus thanos tonybhau umaru usewhenprashspeaks uwu vibe vibin waa wave weeb wha whaaa whoasked wildchan wtf yay yellowman
+aaa adios ahegao angery angrycarrot angryping auto baka blobdance bonk bopcorn carpt catcry catface cathypervibe catree catultravibe catvibe choggers clown cofe cofe2 cofexphile coffeeman cool coomercat crydrink dance danceanim dancecat dancedood danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye happy hecker hitprash hyper hyperneko jumpcat kek kickout kirbydance kittypet mad mention monke mryeshappy myman nou okayudance omg pain party pat peped pepeoeye pgp phile ping prash pray pray2 ragej rgbnou runanime sad sadcat sadhorn sadpat salt scared shoot si67 simp somethingweirdpgpwanted stuff sus thanos think tonybhau umaru usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wha whaaa whoasked wildchan wtf yay yellowman
 {{else if eq $a "catface" }}
 	https://images-ext-2.discordapp.net/external/DOH9pb4KrTe2p3K8OtShrM34IKkNKi9pj1klbV2Ils4/%3Fv%3D1%26size%3D40/https/cdn.discordapp.com/emojis/857412253146284052.png
 {{else if eq $a "usewhenprashspeaks" }}
@@ -159,10 +159,30 @@ ahegao angery angrycarrot angryping blobdance bonk bopcorn carpt catcry catface 
 	https://cdn.discordapp.com/emojis/622928585191194644.png?v=1
 {{else if eq $a "happy" }}
 	https://cdn.discordapp.com/emojis/607710267324891160.png?v=1
-{{else if eq $a "pgp" }}
+{{else if eq $a "cofe2" }}
 	https://c.tenor.com/CAUAvT_-lnEAAAAM/soy-fan.gif
+{{else if eq $a "pgp" }}
+	https://tenor.com/view/ei-fds-gif-22409342
+{{else if eq $a "baka" }}
+	https://tenor.com/view/nana-mitai-baka-mitai-baka-mitai-cat-cat-crying-cat-gif-20123242
+{{else if eq $a "monke" }}
+	https://tenor.com/view/monki-flip-attack-on-titan-aot-beast-titan-beast-titan-aot-gif-20555548
 {{else if eq $a "prash" }}
 	https://c.tenor.com/QhAjQ51RQlEAAAAM/decay.gif
+{{else if eq $a "pat" }}
+	https://cdn.discordapp.com/emojis/755166712122441779.gif
+{{else if eq $a "shoot" }}
+	https://cdn.discordapp.com/emojis/665010554791919626.gif?v=1
+{{else if eq $a "pepeoeye" }}
+	https://cdn.discordapp.com/emojis/661678891836112906.gif?v=1
+{{else if eq $a "clown" }}
+	https://cdn.discordapp.com/emojis/882479387453300766.png?v=1
+{{else if eq $a "pray2" }}
+	https://cdn.discordapp.com/emojis/882479385238724673.png?v=1
+{{else if eq $a "vericool" }}
+	https://cdn.discordapp.com/emojis/882479387654619196.png?v=1
+{{else if eq $a "dancin" }}
+	https://cdn.discordapp.com/emojis/846792086031171664.gif?v=1
 {{else if eq $a "cofe" }}
 	https://i.gifer.com/7OHz.gif
 {{else if eq $a "si67" }}
@@ -175,6 +195,24 @@ ahegao angery angrycarrot angryping blobdance bonk bopcorn carpt catcry catface 
 	https://c.tenor.com/7vau4wU94FYAAAAC/jojos-bizarre-adventure-joseph.gif?v=1&size=40
 {{else if eq $a "dio" }}
 	https://cdn.discordapp.com/emojis/650958526390206464.gif?v=1
+{{else if eq $a "think" }}
+	https://cdn.discordapp.com/emojis/863467883019763722.gif?v=1
+{{else if eq $a "ping" }}
+	https://cdn.discordapp.com/emojis/863922126612332544.gif?v=1
+{{else if eq $a "salt" }}
+	https://cdn.discordapp.com/emojis/846794030830583898.gif?v=1
+{{else if eq $a "somethingweirdpgpwanted" }}
+	https://cdn.discordapp.com/emojis/848932267178852383.gif?v=1
+{{else if eq $a "aaa" }}
+	https://cdn.discordapp.com/emojis/863950662269534229.gif?v=1
+{{else if eq $a "dance" }}
+	https://cdn.discordapp.com/emojis/848938891779768355.gif?v=1
+{{else if eq $a "mention" }}
+	https://cdn.discordapp.com/emojis/800774908929900624.gif?v=1
+{{else if eq $a "auto" }}
+	https://cdn.discordapp.com/emojis/665011173359353878.gif?v=1
+{{else if eq $a "adios" }}
+	https://cdn.discordapp.com/emojis/864924933427036190.png?v=1
 {{else if eq $a "hitprash" }}
 	https://tenor.com/view/cat-angry-scratch-lion-stuffed-toy-gif-7556947
 {{end}}
