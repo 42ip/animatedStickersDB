@@ -16,19 +16,28 @@ PATH = sys.path[0] + "/outputs/output{}.txt".format(fileno)
 f = open(PATH, "w")
 f.write(startfile)
 f.write("{{if eq $a \"stickers\" }}");f.write("\n")
-arr = sorted(d.keys())
+arr = sorted([d[key][0] for key in d])
 f.write(" ".join(arr))
 f.write("\n")
 start = False
-for key in d:
-    f.write("{");
-    if start:
-        f.write("{{if eq $a \"{}\" }}".format(key));f.write("}");
-        start = False
+
+def giveString(arr,start):
+    s = ""
+    if len(arr) == 2:
+        s =  "{"+("{{if eq $a \"{}\" }}".format(arr[0]) if start else "{{else if eq $a \"{}\" }}".format(arr[0])) + "}\n"
+        s += "\t"
     else:
-        f.write("{{else if eq $a \"{}\" }}".format(key));f.write("}");
-    f.write("\n")
-    f.write("\t");f.write(d[key]);f.write("\n")
+        s = "{" + ("{if or " if start else "{ else if or ")
+        for name in arr[:-1]:
+            s += "(" + "eq $a \"{}\" ) ".format(name)
+        s += "}" + "}\n\t"
+    s += arr[-1]
+    s += "\n"
+    return s
+
+for key in d:
+    f.write(giveString(d[key],start))
+    start = False
     currsize = os.path.getsize(PATH)
     if currsize > 7500:
         print("new file created")

@@ -7,18 +7,25 @@ with open(sys.path[0] + '/stickers.json', 'r+') as openfile:
     # Reading from json file
     json_object = json.load(openfile)
     d = json_object
-cont = ""
+
+cont = True
 # One by one space seperated the stickers should be added;
 # Eg : 
 ###   usewhenprashspeaks  {url link for the sticker}
 ###   yellowman {url link for the sticker}
+## you can add aliases if you like. just put it after the first name. minimum one name must be there and a url must be there
+# eg vibe dancedood  https://cdn.discordapp.com/emojis/795467294604132363.gif?v=1 
+# this will save to the json file both the names to the link.
 ###  just press enter (to end the loop and save the json file.)
-while cont != "100":
-      a = input().split(" ")
-      if len(a) !=  2:
-            cont = '100'
-      else:
-        d[a[0]] = a[1]
+c = len(d)
+print(c)
+while cont:
+    c += 1
+    a = input().split(" ")
+    if len(a) <  2:
+            cont = False
+    else:
+        d[c] = a
 obj = json.dumps(d,indent= 1)
 with open(sys.path[0] + "/stickers.json", "w") as outfile:
     outfile.write(obj)

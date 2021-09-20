@@ -1,5 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "baka" }}
+{{if eq $a "pgp" }}
+	https://tenor.com/view/ei-fds-gif-22409342
+{{else if eq $a "baka" }}
 	https://tenor.com/view/nana-mitai-baka-mitai-baka-mitai-cat-cat-crying-cat-gif-20123242
 {{else if eq $a "monke" }}
 	https://tenor.com/view/monki-flip-attack-on-titan-aot-beast-titan-beast-titan-aot-gif-20555548
@@ -51,4 +53,6 @@
 	https://cdn.discordapp.com/emojis/864924933427036190.png?v=1
 {{else if eq $a "hitprash" }}
 	https://tenor.com/view/cat-angry-scratch-lion-stuffed-toy-gif-7556947
+{{else if eq $a "catpeep" }}
+	https://media.discordapp.net/attachments/881071746415992852/889574184223645736/823604729505644584.png
 {{end}}

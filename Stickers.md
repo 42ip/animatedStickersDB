@@ -5,7 +5,7 @@ All Stickers
 
 |catface|<img src="https://images-ext-2.discordapp.net/external/DOH9pb4KrTe2p3K8OtShrM34IKkNKi9pj1klbV2Ils4/%3Fv%3D1%26size%3D40/https/cdn.discordapp.com/emojis/857412253146284052.png" />|
 | :---: | :---: |
-|usewhenprashspeaks|<img src="https://cdn.discordapp.com/emojis/877005860084269097.png?v=1" />|
+|usewhenprashspeaks or uwps|<img src="https://cdn.discordapp.com/emojis/877005860084269097.png?v=1" />|
 |ahegao|<img src="https://cdn.discordapp.com/emojis/585713188985896961.gif?v=1" />|
 |pray|<img src="https://cdn.discordapp.com/emojis/668571672952963099.gif?v=1" />|
 |uwu|<img src="https://cdn.discordapp.com/emojis/773973330097078302.png?v=1" />|
@@ -19,9 +19,9 @@ All Stickers
 |whoasked|<img src="https://media.discordapp.net/attachments/580169419989450782/887372440508989440/image0.gif" />|
 |danceanim|<img src="https://cdn.discordapp.com/emojis/862629304738512926.gif?v=1" />|
 |sad|<img src="https://cdn.discordapp.com/emojis/738028931973775390.gif?v=1" />|
-|vibe|<img src="https://cdn.discordapp.com/emojis/795467294604132363.gif?v=1" />|
-|yellowman|<img src="https://cdn.discordapp.com/emojis/869991107344367727.gif?v=1" />|
-|jumpcat|<img src="https://cdn.discordapp.com/emojis/862909078794534962.gif?v=1" />|
+|vibe or dancedood|<img src="https://cdn.discordapp.com/emojis/795467294604132363.gif?v=1" />|
+|yellowman or ym|<img src="https://cdn.discordapp.com/emojis/869991107344367727.gif?v=1" />|
+|jumpcat or jc|<img src="https://cdn.discordapp.com/emojis/862909078794534962.gif?v=1" />|
 |yay|<img src="https://cdn.discordapp.com/emojis/743488217856082001.gif?v=1" />|
 |dankies|<img src="https://cdn.discordapp.com/emojis/837794743819567134.gif?v=1" />|
 |blobdance|<img src="https://cdn.discordapp.com/emojis/862345480435400745.gif?v=1" />|
@@ -62,8 +62,8 @@ All Stickers
 |getsomehelp|<img src="https://cdn.discordapp.com/emojis/755106425650413658.gif?v=1" />|
 |coffeeman|<img src="https://cdn.discordapp.com/emojis/755834221947519150.gif?v=1" />|
 |hyper|<img src="https://cdn.discordapp.com/emojis/755288581353898004.gif?v=1" />|
-|catultravibe|<img src="https://cdn.discordapp.com/emojis/755071139709059154.gif?v=1" />|
-|cathypervibe|<img src="https://cdn.discordapp.com/emojis/755071982097399838.gif?v=1" />|
+|catultravibe or catvibe2|<img src="https://cdn.discordapp.com/emojis/755071139709059154.gif?v=1" />|
+|cathypervibe or catvibe3|<img src="https://cdn.discordapp.com/emojis/755071982097399838.gif?v=1" />|
 |catcry|<img src="https://cdn.discordapp.com/emojis/755834753940324383.png?v=1" />|
 |coomercat|<img src="https://cdn.discordapp.com/emojis/681926628628103168.png?v=1" />|
 |carpt|<img src="https://c.tenor.com/jXmlvMOx5UoAAAAC/carrot-im-a-carrot.gif" />|
@@ -76,7 +76,6 @@ All Stickers
 |drake|<img src="https://cdn.discordapp.com/emojis/623916666413383699.gif?v=1" />|
 |mryeshappy|<img src="https://cdn.discordapp.com/emojis/852807252422164480.gif?v=1" />|
 |ragej|<img src="https://cdn.discordapp.com/emojis/760909925844647936.gif?v=1" />|
-|dancedood|<img src="https://cdn.discordapp.com/emojis/866343950130741268.gif?v=1" />|
 |vibin|<img src="https://cdn.discordapp.com/emojis/824346240845348895.gif?v=1" />|
 |scared|<img src="https://cdn.discordapp.com/emojis/734445168350068768.png?v=1" />|
 |thanos|<img src="https://cdn.discordapp.com/emojis/703086921982672916.png?v=1" />|
@@ -111,3 +110,4 @@ All Stickers
 |auto|<img src="https://cdn.discordapp.com/emojis/665011173359353878.gif?v=1" />|
 |adios|<img src="https://cdn.discordapp.com/emojis/864924933427036190.png?v=1" />|
 |hitprash|<img src="https://tenor.com/view/cat-angry-scratch-lion-stuffed-toy-gif-7556947" />|
+|catpeep|<img src="https://media.discordapp.net/attachments/881071746415992852/889574184223645736/823604729505644584.png" />|
