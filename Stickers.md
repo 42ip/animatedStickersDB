@@ -111,3 +111,8 @@ All Stickers
 |adios|<img src="https://cdn.discordapp.com/emojis/864924933427036190.png?v=1" />|
 |hitprash|<img src="https://tenor.com/view/cat-angry-scratch-lion-stuffed-toy-gif-7556947" />|
 |catpeep|<img src="https://media.discordapp.net/attachments/881071746415992852/889574184223645736/823604729505644584.png" />|
+|belugagif|<img src="https://c.tenor.com/GTcT7HODLRgAAAAC/smiling-cat-creepy-cat.gif" />|
+|comficat or happykitty|<img src="https://c.tenor.com/_cGkiDCUji0AAAAC/happy-kitty.gif" />|
+|yellowmanbig or ymbig|<img src="https://media.discordapp.net/attachments/881071746415992852/891024063168909362/mp4-unscreen.gif" />|
+|beluga|<img src="https://cdn.discordapp.com/emojis/866109681540661278.png?v=1" />|
+|innocent|<img src="https://tenor.com/view/beluga-the-cat-hakosh1307-hakosh-beluga-cat-hug-gif-22532913" />|

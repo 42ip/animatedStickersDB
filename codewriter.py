@@ -15,10 +15,13 @@ def updatePath(i):
 PATH = sys.path[0] + "/outputs/output{}.txt".format(fileno)
 f = open(PATH, "w")
 f.write(startfile)
-f.write("{{if eq $a \"stickers\" }}");f.write("\n")
+f.write("{{if or (eq $a \"stickers\") (eq $a \"gifs\") (eq $a \"gif\") }}");f.write("\n")
+f.write("{{deleteTrigger 0 }}");f.write("\n")
 arr = sorted([d[key][0] for key in d])
 f.write(" ".join(arr))
 f.write("\n")
+f.write("{{ deleteResponse 30 }}");f.write("\n")
+
 start = False
 
 def giveString(arr,start):
