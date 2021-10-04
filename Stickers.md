@@ -116,3 +116,9 @@ All Stickers
 |yellowmanbig or ymbig|<img src="https://media.discordapp.net/attachments/881071746415992852/891024063168909362/mp4-unscreen.gif" />|
 |beluga|<img src="https://cdn.discordapp.com/emojis/866109681540661278.png?v=1" />|
 |innocent|<img src="https://tenor.com/view/beluga-the-cat-hakosh1307-hakosh-beluga-cat-hug-gif-22532913" />|
+|rock|<img src="https://tenor.com/view/throw-anime-catch-gif-9434542" />|
+|thrash or garbage|<img src="https://tenor.com/view/im-garbage-trash-cute-trashcan-gif-14768153" />|
+|wtf|<img src="https://tenor.com/view/oh-come-on-seriously-wtf-is-going-on-spit-water-gif-12052668" />|
+|lesgo|<img src="https://tenor.com/view/letsgooo-gif-21866961" />|
+|notfuni|<img src="https://tenor.com/view/sarcastic-laugh-serious-gif-4922422" />|
+|notfair|<img src="https://tenor.com/view/pigeon-pigeon-falling-falling-jump-fall-gif-23036577" />|
