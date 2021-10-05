@@ -122,3 +122,9 @@ All Stickers
 |lesgo|<img src="https://c.tenor.com/hmScgtFaBtYAAAAS/letsgooo.gif" height="100"/>|
 |notfuni|<img src="https://c.tenor.com/pppzCTXrGmoAAAAS/sarcastic-laugh.gif" height="100"/>|
 |notfair|<img src="https://c.tenor.com/Z2ygBLbsCYwAAAAS/pigeon-pigeon-falling.gif" height="100"/>|
+|noti|<img src="https://c.tenor.com/olTVP9rBLuoAAAAd/you-naughty-naughty-pointing.gif" height="100"/>|
+|compro|<img src="https://c.tenor.com/lZ9QMKvqEY0AAAAS/fight-kick.gif" height="100"/>|
+|hshake|<img src="https://c.tenor.com/rmklzHMYy80AAAAS/nichijou-anime.gif" height="100"/>|
+|hshake2|<img src="https://c.tenor.com/H2x6-sF50jUAAAAS/anime-kirito.gif" height="100"/>|
+|hehe|<img src="https://c.tenor.com/fx8CGCDQkIYAAAAS/ron-swanson-smile.gif" height="100"/>|
+|sasa|<img src="https://c.tenor.com/PokkBAoXwTAAAAAS/seazyez-sasageyo.gif" height="100"/>|

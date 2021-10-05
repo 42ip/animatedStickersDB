@@ -70,15 +70,27 @@
 {{else if eq $a "innocent" }}
 	https://tenor.com/view/beluga-the-cat-hakosh1307-hakosh-beluga-cat-hug-gif-22532913
 {{else if eq $a "rock" }}
-	https://tenor.com/view/throw-anime-catch-gif-9434542
+	https://c.tenor.com/NDyRNaqD-FIAAAAS/throw-anime.gif
 {{ else if or (eq $a "thrash" ) (eq $a "garbage" ) }}
-	https://tenor.com/view/im-garbage-trash-cute-trashcan-gif-14768153
+	https://c.tenor.com/QMRVVCWjtfwAAAAC/im-garbage-trash.gif
 {{else if eq $a "wtf" }}
-	https://tenor.com/view/oh-come-on-seriously-wtf-is-going-on-spit-water-gif-12052668
+	https://c.tenor.com/CkBWgRM55S4AAAAS/oh-come-on-seriously.gif
 {{else if eq $a "lesgo" }}
-	https://tenor.com/view/letsgooo-gif-21866961
+	https://c.tenor.com/hmScgtFaBtYAAAAS/letsgooo.gif
 {{else if eq $a "notfuni" }}
-	https://tenor.com/view/sarcastic-laugh-serious-gif-4922422
+	https://c.tenor.com/pppzCTXrGmoAAAAS/sarcastic-laugh.gif
 {{else if eq $a "notfair" }}
-	https://tenor.com/view/pigeon-pigeon-falling-falling-jump-fall-gif-23036577
+	https://c.tenor.com/Z2ygBLbsCYwAAAAS/pigeon-pigeon-falling.gif
+{{else if eq $a "noti" }}
+	https://c.tenor.com/olTVP9rBLuoAAAAd/you-naughty-naughty-pointing.gif
+{{else if eq $a "compro" }}
+	https://c.tenor.com/lZ9QMKvqEY0AAAAS/fight-kick.gif
+{{else if eq $a "hshake" }}
+	https://c.tenor.com/rmklzHMYy80AAAAS/nichijou-anime.gif
+{{else if eq $a "hshake2" }}
+	https://c.tenor.com/H2x6-sF50jUAAAAS/anime-kirito.gif
+{{else if eq $a "hehe" }}
+	https://c.tenor.com/fx8CGCDQkIYAAAAS/ron-swanson-smile.gif
+{{else if eq $a "sasa" }}
+	https://c.tenor.com/PokkBAoXwTAAAAAS/seazyez-sasageyo.gif
 {{end}}
