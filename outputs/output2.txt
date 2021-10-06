@@ -107,4 +107,6 @@
 	https://media1.tenor.com/images/3c51c9f68555e72174082248012ec32c/tenor.gif?itemid=23349046
 {{else if eq $a "cooldance" }}
 	https://tenor.com/view/dance-fun-happy-retro-gif-10736279
+{{ else if or (eq $a "kpray" ) (eq $a "kripalpray" ) }}
+	https://media1.tenor.com/images/be6135b6c6f81ad92fbda287daaebcea/tenor.gif?itemid=23349154
 {{end}}
