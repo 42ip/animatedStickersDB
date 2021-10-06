@@ -128,3 +128,9 @@ All Stickers
 |hshake2|<img src="https://c.tenor.com/H2x6-sF50jUAAAAS/anime-kirito.gif" height="100"/>|
 |hehe|<img src="https://c.tenor.com/fx8CGCDQkIYAAAAS/ron-swanson-smile.gif" height="100"/>|
 |sasa|<img src="https://c.tenor.com/PokkBAoXwTAAAAAS/seazyez-sasageyo.gif" height="100"/>|
+|sneak or sneaky|<img src="https://tenor.com/view/mark-zuckerberg-gif-14169217" height="100"/>|
+|lookatthiscat|<img src="https://tenor.com/view/look-at-this-cat-look-at-this-fucking-cat-rave-cat-gif-22407994" height="100"/>|
+|kripaleat|<img src="https://media1.tenor.com/images/ad1c9932f4492c742cb921c2b2c18517/tenor.gif?itemid=23349023" height="100"/>|
+|wherebanana|<img src="https://media1.tenor.com/images/2206a72daf1f7763e800bd9236931243/tenor.gif?itemid=23349045" height="100"/>|
+|comradecat|<img src="https://media1.tenor.com/images/3c51c9f68555e72174082248012ec32c/tenor.gif?itemid=23349046" height="100"/>|
+|cooldance|<img src="https://tenor.com/view/dance-fun-happy-retro-gif-10736279" height="100"/>|
