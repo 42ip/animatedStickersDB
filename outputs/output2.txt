@@ -66,7 +66,7 @@
 {{ else if or (eq $a "comficat" ) (eq $a "happykitty" ) }}
 	https://c.tenor.com/_cGkiDCUji0AAAAC/happy-kitty.gif
 {{ else if or (eq $a "yellowmanbig" ) (eq $a "ymbig" ) }}
-	https://github.com/nandanhere/animatedStickersDB/blob/main/stickersraw/yellowmanbig.gif?raw=true
+	https://github.com/42ip/animatedStickersDB/blob/main/stickersraw/yellowmanbig.gif?raw=true
 {{else if eq $a "beluga" }}
 	https://cdn.discordapp.com/emojis/866109681540661278.png?v=1
 {{else if eq $a "innocent" }}

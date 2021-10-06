@@ -51,6 +51,7 @@ for key in d:
         f = open(PATH,"w")
         f.write(startfile)
 f.write(endfile)
+f.close()
      
 
 
