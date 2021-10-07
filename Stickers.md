@@ -68,7 +68,7 @@ All Stickers
 |coomercat|<img src="https://cdn.discordapp.com/emojis/681926628628103168.png?v=1" height="100"/>|
 |carpt|<img src="https://c.tenor.com/jXmlvMOx5UoAAAAC/carrot-im-a-carrot.gif" height="100"/>|
 |angrycarrot|<img src="https://thumbs.gfycat.com/AgreeableShockingHalibut-max-1mb.gif" height="100"/>|
-|funi|<img src="https://cutewallpaper.org/21/weird/Weird-GIFs-Tenor.gif" height="100"/>|
+|funi|<img src="https://i.imgflip.com/2pazcy.gif" height="100"/>|
 |hecker|<img src="https://c.tenor.com/6InrnT04tvEAAAAC/hecker.gif" height="100"/>|
 |empty|<img src="https://i1.wp.com/media2.giphy.com/media/1L5YuA6wpKkNO/giphy.gif" height="100"/>|
 |kittypet|<img src="https://cdn.discordapp.com/emojis/807179657711190036.gif?v=1" height="100"/>|
@@ -113,7 +113,7 @@ All Stickers
 |catpeep|<img src="https://media.discordapp.net/attachments/881071746415992852/889574184223645736/823604729505644584.png" height="100"/>|
 |belugagif|<img src="https://c.tenor.com/GTcT7HODLRgAAAAC/smiling-cat-creepy-cat.gif" height="100"/>|
 |comficat or happykitty|<img src="https://c.tenor.com/_cGkiDCUji0AAAAC/happy-kitty.gif" height="100"/>|
-|yellowmanbig or ymbig|<img src="https://media.discordapp.net/attachments/881071746415992852/891024063168909362/mp4-unscreen.gif" height="100"/>|
+|yellowmanbig or ymbig|<img src="https://github.com/42ip/animatedStickersDB/blob/main/stickersraw/yellowmanbig.gif?raw=true" height="100"/>|
 |beluga|<img src="https://cdn.discordapp.com/emojis/866109681540661278.png?v=1" height="100"/>|
 |innocent|<img src="https://tenor.com/view/beluga-the-cat-hakosh1307-hakosh-beluga-cat-hug-gif-22532913" height="100"/>|
 |rock|<img src="https://c.tenor.com/NDyRNaqD-FIAAAAS/throw-anime.gif" height="100"/>|
@@ -134,3 +134,26 @@ All Stickers
 |wherebanana|<img src="https://media1.tenor.com/images/2206a72daf1f7763e800bd9236931243/tenor.gif?itemid=23349045" height="100"/>|
 |comradecat|<img src="https://media1.tenor.com/images/3c51c9f68555e72174082248012ec32c/tenor.gif?itemid=23349046" height="100"/>|
 |cooldance|<img src="https://tenor.com/view/dance-fun-happy-retro-gif-10736279" height="100"/>|
+|kpray or kripalpray|<img src="https://media1.tenor.com/images/be6135b6c6f81ad92fbda287daaebcea/tenor.gif?itemid=23349154" height="100"/>|
+|sneak|<img src="https://tenor.com/view/mark-zuckerberg-gif-14169217" height="100"/>|
+|awkward|<img src="https://c.tenor.com/1mEavGypjfYAAAAC/awkward-laugh.gif" height="100"/>|
+|thomas|<img src="https://c.tenor.com/t0LioUBjxlEAAAAM/cursed.gif" height="100"/>|
+|sigma|<img src="https://tenor.com/view/salty-gif-23140207" height="100"/>|
+|phile2|<img src="https://tenor.com/view/kfc-playas-gif-22990032" height="100"/>|
+|hshake3|<img src="https://tenor.com/view/manly-handshake-fma-brotherhood-fma-armstrong-armstrong-handshake-gif-16567570" height="100"/>|
+|shuttleBot|<img src="https://tenor.com/view/poggers-space-pog-universe-gif-20447872" height="100"/>|
+|run|<img src="https://tenor.com/view/bird-help-hands-up-running-bird-with-arms-gif-17945354" height="100"/>|
+|uajokevro|<img src="https://tenor.com/view/pokemon-haunter-gengar-ghastly-ghost-gif-20456292" height="100"/>|
+|konnichiwa|<img src="https://tenor.com/view/hecker-floppa-gif-23066957" height="100"/>|
+|jc2|<img src="https://tenor.com/view/tax-fraud-phucas-gif-20551750" height="100"/>|
+|oni|<img src="https://tenor.com/view/anime-manga-onii-chan-japanese-anime-japanese-manga-gif-5510123" height="100"/>|
+|linux|<img src="https://tenor.com/view/alicini-sink-drown-stuffed-toy-penguin-gif-16530613" height="100"/>|
+|L|<img src="https://tenor.com/view/mayweather-for-you-throw-gif-8082067" height="100"/>|
+|analyse|<img src="https://tenor.com/view/kowalski-analysis-thinking-seriously-gif-12855053" height="100"/>|
+|m2m or cpr|<img src="https://tenor.com/view/spongebob-patrick-squidward-cpr-gif-8690547" height="100"/>|
+|cofe3 or dum|<img src="https://tenor.com/view/dum-gif-6183293" height="100"/>|
+|lick|<img src="https://tenor.com/view/gah-weird-gif-11421000" height="100"/>|
+|scared|<img src="https://tenor.com/view/see-it-like-final-hamster-scared-gif-14498643" height="100"/>|
+|whencarptonline or wco|<img src="https://tenor.com/view/cat-scared-back-away-close-door-gif-15554720" height="100"/>|
+|together|<img src="https://tenor.com/view/apes-together-strong-0p1sf-gif-20906166" height="100"/>|
+|unsee|<img src="https://tenor.com/view/ugh-what-a-day-frustrated-weird-gif-12613646" height="100"/>|
