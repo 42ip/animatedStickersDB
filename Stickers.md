@@ -157,3 +157,10 @@ All Stickers
 |whencarptonline or wco|<img src="https://tenor.com/view/cat-scared-back-away-close-door-gif-15554720" height="100"/>|
 |together|<img src="https://tenor.com/view/apes-together-strong-0p1sf-gif-20906166" height="100"/>|
 |unsee|<img src="https://tenor.com/view/ugh-what-a-day-frustrated-weird-gif-12613646" height="100"/>|
+|linkin|<img src="https://c.tenor.com/W3hHGgBbgdgAAAAS/venti-sad.gif" height="100"/>|
+|astro|<img src="https://c.tenor.com/UOsInWffW6QAAAAM/astronaut-swimming-star.gif" height="100"/>|
+|thumb|<img src="https://c.tenor.com/yvYyh_aS9esAAAAS/grilla-yes.gif" height="100"/>|
+|birdd|<img src="https://c.tenor.com/IwdYJ9btmKQAAAAS/dancing-duck.gif" height="100"/>|
+|kambli|<img src="https://image.ibb.co/feBkOy/PRA.png" height="100"/>|
+|hshake4|<img src="https://c.tenor.com/DS5SlsfRIVQAAAAS/anime-dap.gif" height="100"/>|
+|hmm|<img src="https://c.tenor.com/Hiz2y3nY4bYAAAAS/tanaka-cinco5-haikyuu.gif" height="100"/>|

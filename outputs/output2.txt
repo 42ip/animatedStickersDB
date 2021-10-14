@@ -1,5 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "sadcat" }}
+{{if eq $a "thanos" }}
+	https://cdn.discordapp.com/emojis/703086921982672916.png?v=1
+{{else if eq $a "sadcat" }}
 	https://cdn.discordapp.com/emojis/703086921873621012.png?v=1
 {{else if eq $a "angery" }}
 	https://cdn.discordapp.com/emojis/622928585191194644.png?v=1
@@ -155,4 +157,18 @@
 	https://tenor.com/view/apes-together-strong-0p1sf-gif-20906166
 {{else if eq $a "unsee" }}
 	https://tenor.com/view/ugh-what-a-day-frustrated-weird-gif-12613646
+{{else if eq $a "linkin" }}
+	https://c.tenor.com/W3hHGgBbgdgAAAAS/venti-sad.gif
+{{else if eq $a "astro" }}
+	https://c.tenor.com/UOsInWffW6QAAAAM/astronaut-swimming-star.gif
+{{else if eq $a "thumb" }}
+	https://c.tenor.com/yvYyh_aS9esAAAAS/grilla-yes.gif
+{{else if eq $a "birdd" }}
+	https://c.tenor.com/IwdYJ9btmKQAAAAS/dancing-duck.gif
+{{else if eq $a "kambli" }}
+	https://image.ibb.co/feBkOy/PRA.png
+{{else if eq $a "hshake4" }}
+	https://c.tenor.com/DS5SlsfRIVQAAAAS/anime-dap.gif
+{{else if eq $a "hmm" }}
+	https://c.tenor.com/Hiz2y3nY4bYAAAAS/tanaka-cinco5-haikyuu.gif
 {{end}}

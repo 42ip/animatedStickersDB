@@ -1,7 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
 {{if or (eq $a "stickers") (eq $a "gifs") (eq $a "gif") }}
 {{deleteTrigger 0 }}
-L aaa adios ahegao analyse angery angrycarrot angryping auto awkward baka beluga belugagif blobdance bonk bopcorn carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink dance danceanim dancecat danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye happy hecker hehe hitprash hshake hshake2 hshake3 hyper hyperneko innocent jc2 jumpcat kek kickout kirbydance kittypet konnichiwa kpray kripaleat lesgo lick linux lookatthiscat m2m mad mention monke mryeshappy myman notfair notfuni noti nou okayudance omg oni pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2 ragej rgbnou rock run runanime sad sadcat sadhorn sadpat salt sasa scared scared shoot shuttleBot si67 sigma simp sneak sneak somethingweirdpgpwanted stuff sus thanos think thomas thrash together tonybhau uajokevro umaru unsee usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf yay yellowman yellowmanbig
+L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka beluga belugagif birdd blobdance bonk bopcorn carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink dance danceanim dancecat danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye happy hecker hehe hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko innocent jc2 jumpcat kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat lesgo lick linkin linux lookatthiscat m2m mad mention monke mryeshappy myman notfair notfuni noti nou okayudance omg oni pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2 ragej rgbnou rock run runanime sad sadcat sadhorn sadpat salt sasa scared scared shoot shuttleBot si67 sigma simp sneak sneak somethingweirdpgpwanted stuff sus thanos think thomas thrash thumb together tonybhau uajokevro umaru unsee usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf yay yellowman yellowmanbig
 {{ deleteResponse 30 }}
 {{else if eq $a "catface" }}
 	https://images-ext-2.discordapp.net/external/DOH9pb4KrTe2p3K8OtShrM34IKkNKi9pj1klbV2Ils4/%3Fv%3D1%26size%3D40/https/cdn.discordapp.com/emojis/857412253146284052.png
@@ -151,6 +151,4 @@ L aaa adios ahegao analyse angery angrycarrot angryping auto awkward baka beluga
 	https://cdn.discordapp.com/emojis/824346240845348895.gif?v=1
 {{else if eq $a "scared" }}
 	https://cdn.discordapp.com/emojis/734445168350068768.png?v=1
-{{else if eq $a "thanos" }}
-	https://cdn.discordapp.com/emojis/703086921982672916.png?v=1
 {{end}}
