@@ -1,0 +1,4 @@
+{{$a :=  index .CmdArgs 0 }} 
+{{if eq $a "haha" }}
+	https://cdn.discordapp.com/emojis/750544340505591930.png?size=128
+{{end}}

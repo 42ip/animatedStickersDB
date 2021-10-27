@@ -27,7 +27,7 @@ start = False
 def giveString(arr,start):
     s = ""
     if len(arr) == 2:
-        s =  "{"+("{{if eq $a \"{}\" }}".format(arr[0]) if start else "{{else if eq $a \"{}\" }}".format(arr[0])) + "}\n"
+        s =  "{"+("{{if eq $a \"{}\" }}".format(arr[0]) if start else "{{else if eq $a \"{}\" }}".format(arr[0])) + "}\n" if arr[0] != 'waa' else "{{ else if reFind  \"^wa*a$\" $a }}".format(arr[0]) + "}\n"
         s += "\t"
     else:
         s = "{" + ("{if or " if start else "{ else if or ")

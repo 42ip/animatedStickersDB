@@ -171,4 +171,6 @@
 	https://c.tenor.com/DS5SlsfRIVQAAAAS/anime-dap.gif
 {{else if eq $a "hmm" }}
 	https://c.tenor.com/Hiz2y3nY4bYAAAAS/tanaka-cinco5-haikyuu.gif
+{{else if eq $a "shut" }}
+	https://cdn.discordapp.com/emojis/857443918605975603.png?size=128
 {{end}}
