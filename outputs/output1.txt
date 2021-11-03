@@ -1,7 +1,62 @@
 {{$a :=  index .CmdArgs 0 }} 
 {{if or (eq $a "stickers") (eq $a "gifs") (eq $a "gif") }}
 {{deleteTrigger 0 }}
-L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka beluga belugagif birdd blobdance bonk bopcorn carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink dance danceanim dancecat danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye haha happy hecker hehe hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko innocent jc2 jumpcat kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat lesgo lick linkin linux lookatthiscat m2m mad mention monke mryeshappy myman notfair notfuni noti nou okayudance omg oni pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2 ragej rgbnou rock run runanime sad sadcat sadhorn sadpat salt sasa scared scared shoot shut shuttleBot si67 sigma simp sneak sneak somethingweirdpgpwanted stuff sus thanos think thomas thrash thumb together tonybhau uajokevro umaru unsee usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf yay yellowman yellowmanbig
+{{if eq (len .Args) 1}}L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka beluga belugagif birdd blobdance bonk bopcorn carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink crydrink2 dance danceamongus danceanim dancecat danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye haha happy hecker hehe hello hisucry hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko innocent jumpcat jumpcat2 jumpcat3 justfuckingendme kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat lesgo lick linkin linux lookatthiscat m2m mad mention monke mryeshappy myman notfair notfuni noti nou okayudance omg oni pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2 ragej rgbnou rock run runanime sad sadcat sadhorn sadpat salt sasa scared scaredhamster shoot shut shuttleBot si67 sigma simp sneak somethingweirdpgpwanted stuff superidol sus thanos think thomas thrash thumb together tonybhau twerkmongus uajokevro umaru unsee usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf yay yellowman yellowmanbig
+{{else if eq (len .Args) 2}}
+{{$b := index .CmdArgs 1}}
+{{ if eq (lower $b) "a"}}
+aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward
+{{else if eq (lower $b) "b"}}
+baka beluga belugagif birdd blobdance bonk bopcorn
+{{else if eq (lower $b) "c"}}
+carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink crydrink2
+{{else if eq (lower $b) "d"}}
+dance danceamongus danceanim dancecat danceduck dancin dankies dap depression dio drake
+{{else if eq (lower $b) "e"}}
+empty
+{{else if eq (lower $b) "f"}}
+fight flush funi
+{{else if eq (lower $b) "g"}}
+getsomehelp goodbye
+{{else if eq (lower $b) "h"}}
+haha happy hecker hehe hello hisucry hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko
+{{else if eq (lower $b) "i"}}
+innocent
+{{else if eq (lower $b) "j"}}
+jumpcat jumpcat2 jumpcat3 justfuckingendme
+{{else if eq (lower $b) "k"}}
+kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat
+{{else if eq (lower $b) "l"}}
+L lesgo lick linkin linux lookatthiscat
+{{else if eq (lower $b) "m"}}
+m2m mad mention monke mryeshappy myman
+{{else if eq (lower $b) "n"}}
+notfair notfuni noti nou
+{{else if eq (lower $b) "o"}}
+okayudance omg oni
+{{else if eq (lower $b) "p"}}
+pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2
+{{else if eq (lower $b) "q"}}
+none found :(
+{{else if eq (lower $b) "r"}}
+ragej rgbnou rock run runanime
+{{else if eq (lower $b) "s"}}
+sad sadcat sadhorn sadpat salt sasa scared scaredhamster shoot shut shuttleBot si67 sigma simp sneak somethingweirdpgpwanted stuff superidol sus
+{{else if eq (lower $b) "t"}}
+thanos think thomas thrash thumb together tonybhau twerkmongus
+{{else if eq (lower $b) "u"}}
+uajokevro umaru unsee usewhenprashspeaks uwu
+{{else if eq (lower $b) "v"}}
+vericool vibe vibin
+{{else if eq (lower $b) "w"}}
+waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf
+{{else if eq (lower $b) "x"}}
+none found :(
+{{else if eq (lower $b) "y"}}
+yay yellowman yellowmanbig
+{{else if eq (lower $b) "z"}}
+none found :(
+{{end}}{{end}}
 {{ deleteResponse 30 }}
 {{else if eq $a "catface" }}
 	https://images-ext-2.discordapp.net/external/DOH9pb4KrTe2p3K8OtShrM34IKkNKi9pj1klbV2Ils4/%3Fv%3D1%26size%3D40/https/cdn.discordapp.com/emojis/857412253146284052.png
@@ -75,7 +130,7 @@ L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka 
 	https://cdn.discordapp.com/emojis/857444560603185182.gif?v=1
 {{else if eq $a "choggers" }}
 	https://cdn.discordapp.com/emojis/747005629381607494.png?v=1
-{ else if reFind  "^wa*a$" $a }}
+{{ else if reFind  "^wa*a$" $a }}
 	https://cdn.discordapp.com/emojis/779302444672090113.png?v=1
 {{else if eq $a "depression" }}
 	https://cdn.discordapp.com/emojis/738121295752855572.png?v=1
@@ -101,54 +156,4 @@ L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka 
 	https://cdn.discordapp.com/emojis/815366547602145281.gif?v=1
 {{else if eq $a "wildchan" }}
 	https://cdn.discordapp.com/emojis/585546801067851777.gif?v=1
-{{else if eq $a "whaaa" }}
-	https://cdn.discordapp.com/emojis/857443332228382721.gif?v=1
-{{else if eq $a "wtf" }}
-	https://cdn.discordapp.com/emojis/857443570071109632.png?v=1
-{{else if eq $a "catree" }}
-	https://cdn.discordapp.com/emojis/789770456147427339.gif?v=1
-{{else if eq $a "sadhorn" }}
-	https://cdn.discordapp.com/emojis/784845259489411102.gif?v=1
-{{else if eq $a "runanime" }}
-	https://cdn.discordapp.com/emojis/677592849579114543.gif?v=1
-{{else if eq $a "rgbnou" }}
-	https://cdn.discordapp.com/emojis/785075558446399509.gif?v=1
-{{else if eq $a "getsomehelp" }}
-	https://cdn.discordapp.com/emojis/755106425650413658.gif?v=1
-{{else if eq $a "coffeeman" }}
-	https://cdn.discordapp.com/emojis/755834221947519150.gif?v=1
-{{else if eq $a "hyper" }}
-	https://cdn.discordapp.com/emojis/755288581353898004.gif?v=1
-{{ else if or (eq $a "catultravibe" ) (eq $a "catvibe2" ) }}
-	https://cdn.discordapp.com/emojis/755071139709059154.gif?v=1
-{{ else if or (eq $a "cathypervibe" ) (eq $a "catvibe3" ) }}
-	https://cdn.discordapp.com/emojis/755071982097399838.gif?v=1
-{{else if eq $a "catcry" }}
-	https://cdn.discordapp.com/emojis/755834753940324383.png?v=1
-{{else if eq $a "coomercat" }}
-	https://cdn.discordapp.com/emojis/681926628628103168.png?v=1
-{{else if eq $a "carpt" }}
-	https://c.tenor.com/jXmlvMOx5UoAAAAC/carrot-im-a-carrot.gif
-{{else if eq $a "angrycarrot" }}
-	https://thumbs.gfycat.com/AgreeableShockingHalibut-max-1mb.gif
-{{else if eq $a "funi" }}
-	https://i.imgflip.com/2pazcy.gif
-{{else if eq $a "hecker" }}
-	https://c.tenor.com/6InrnT04tvEAAAAC/hecker.gif
-{{else if eq $a "empty" }}
-	https://i1.wp.com/media2.giphy.com/media/1L5YuA6wpKkNO/giphy.gif
-{{else if eq $a "kittypet" }}
-	https://cdn.discordapp.com/emojis/807179657711190036.gif?v=1
-{{else if eq $a "tonybhau" }}
-	https://cdn.discordapp.com/emojis/857442591376015382.gif?v=1
-{{else if eq $a "drake" }}
-	https://cdn.discordapp.com/emojis/623916666413383699.gif?v=1
-{{else if eq $a "mryeshappy" }}
-	https://cdn.discordapp.com/emojis/852807252422164480.gif?v=1
-{{else if eq $a "ragej" }}
-	https://cdn.discordapp.com/emojis/760909925844647936.gif?v=1
-{{else if eq $a "vibin" }}
-	https://cdn.discordapp.com/emojis/824346240845348895.gif?v=1
-{{else if eq $a "scared" }}
-	https://cdn.discordapp.com/emojis/734445168350068768.png?v=1
 {{end}}

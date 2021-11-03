@@ -82,11 +82,11 @@ All Stickers
 |sadcat|<img src="https://cdn.discordapp.com/emojis/703086921873621012.png?v=1" height="100"/>|
 |angery|<img src="https://cdn.discordapp.com/emojis/622928585191194644.png?v=1" height="100"/>|
 |happy|<img src="https://cdn.discordapp.com/emojis/607710267324891160.png?v=1" height="100"/>|
-|cofe2|<img src="https://c.tenor.com/CAUAvT_-lnEAAAAM/soy-fan.gif" height="100"/>|
+|cofe2 or antisigma|<img src="https://c.tenor.com/CAUAvT_-lnEAAAAM/soy-fan.gif" height="100"/>|
 |pgp|<img src="https://tenor.com/view/ei-fds-gif-22409342" height="100"/>|
 |baka|<img src="https://tenor.com/view/nana-mitai-baka-mitai-baka-mitai-cat-cat-crying-cat-gif-20123242" height="100"/>|
 |monke|<img src="https://tenor.com/view/monki-flip-attack-on-titan-aot-beast-titan-beast-titan-aot-gif-20555548" height="100"/>|
-|prash|<img src="https://c.tenor.com/QhAjQ51RQlEAAAAM/decay.gif" height="100"/>|
+|prash or sigma|<img src="https://c.tenor.com/QhAjQ51RQlEAAAAM/decay.gif" height="100"/>|
 |pat|<img src="https://cdn.discordapp.com/emojis/755166712122441779.gif" height="100"/>|
 |shoot|<img src="https://cdn.discordapp.com/emojis/665010554791919626.gif?v=1" height="100"/>|
 |pepeoeye|<img src="https://cdn.discordapp.com/emojis/661678891836112906.gif?v=1" height="100"/>|
@@ -135,7 +135,6 @@ All Stickers
 |comradecat|<img src="https://media1.tenor.com/images/3c51c9f68555e72174082248012ec32c/tenor.gif?itemid=23349046" height="100"/>|
 |cooldance|<img src="https://tenor.com/view/dance-fun-happy-retro-gif-10736279" height="100"/>|
 |kpray or kripalpray|<img src="https://media1.tenor.com/images/be6135b6c6f81ad92fbda287daaebcea/tenor.gif?itemid=23349154" height="100"/>|
-|sneak|<img src="https://tenor.com/view/mark-zuckerberg-gif-14169217" height="100"/>|
 |awkward|<img src="https://c.tenor.com/1mEavGypjfYAAAAC/awkward-laugh.gif" height="100"/>|
 |thomas|<img src="https://c.tenor.com/t0LioUBjxlEAAAAM/cursed.gif" height="100"/>|
 |sigma|<img src="https://tenor.com/view/salty-gif-23140207" height="100"/>|
@@ -145,7 +144,6 @@ All Stickers
 |run|<img src="https://tenor.com/view/bird-help-hands-up-running-bird-with-arms-gif-17945354" height="100"/>|
 |uajokevro|<img src="https://tenor.com/view/pokemon-haunter-gengar-ghastly-ghost-gif-20456292" height="100"/>|
 |konnichiwa|<img src="https://tenor.com/view/hecker-floppa-gif-23066957" height="100"/>|
-|jc2|<img src="https://tenor.com/view/tax-fraud-phucas-gif-20551750" height="100"/>|
 |oni|<img src="https://tenor.com/view/anime-manga-onii-chan-japanese-anime-japanese-manga-gif-5510123" height="100"/>|
 |linux|<img src="https://tenor.com/view/alicini-sink-drown-stuffed-toy-penguin-gif-16530613" height="100"/>|
 |L|<img src="https://tenor.com/view/mayweather-for-you-throw-gif-8082067" height="100"/>|
@@ -153,7 +151,7 @@ All Stickers
 |m2m or cpr|<img src="https://tenor.com/view/spongebob-patrick-squidward-cpr-gif-8690547" height="100"/>|
 |cofe3 or dum|<img src="https://tenor.com/view/dum-gif-6183293" height="100"/>|
 |lick|<img src="https://tenor.com/view/gah-weird-gif-11421000" height="100"/>|
-|scared|<img src="https://tenor.com/view/see-it-like-final-hamster-scared-gif-14498643" height="100"/>|
+|scaredhamster|<img src="https://tenor.com/view/see-it-like-final-hamster-scared-gif-14498643" height="100"/>|
 |whencarptonline or wco|<img src="https://tenor.com/view/cat-scared-back-away-close-door-gif-15554720" height="100"/>|
 |together|<img src="https://tenor.com/view/apes-together-strong-0p1sf-gif-20906166" height="100"/>|
 |unsee|<img src="https://tenor.com/view/ugh-what-a-day-frustrated-weird-gif-12613646" height="100"/>|
@@ -164,3 +162,14 @@ All Stickers
 |kambli|<img src="https://image.ibb.co/feBkOy/PRA.png" height="100"/>|
 |hshake4|<img src="https://c.tenor.com/DS5SlsfRIVQAAAAS/anime-dap.gif" height="100"/>|
 |hmm|<img src="https://c.tenor.com/Hiz2y3nY4bYAAAAS/tanaka-cinco5-haikyuu.gif" height="100"/>|
+|shut|<img src="https://cdn.discordapp.com/emojis/857443918605975603.png?size=128" height="100"/>|
+|haha|<img src="https://cdn.discordapp.com/emojis/750544340505591930.png?size=128" height="100"/>|
+|crydrink2|<img src="https://media.discordapp.net/attachments/881071746415992852/905391637163835402/Screenshot_2021-10-24-22-40-48-96_1c337646f29875672b5a61192b9010f9.jpeg?width=323&height=375" height="100"/>|
+|justfuckingendme|<img src="https://tenor.com/view/lndspk-skycat-gif-20867310" height="100"/>|
+|hello|<img src="https://tenor.com/view/hey-friend-penguin-hello-wave-gif-10530536" height="100"/>|
+|jumpcat2 or jc2|<img src="https://tenor.com/view/happy-dance-cat-cat-dancing-friday-gif-9016231" height="100"/>|
+|superidol|<img src="https://tenor.com/view/super-idol-social-credits-gif-23422258" height="100"/>|
+|twerkmongus or twa|<img src="https://tenor.com/view/halfcat-simdemocracy-among-us-gif-22117762" height="100"/>|
+|danceamongus|<img src="https://tenor.com/view/among-us-gif-18628600" height="100"/>|
+|hisucry or prashcry|<img src="https://cdn.discordapp.com/emojis/853959177017753630.png?size=128" height="100"/>|
+|jumpcat3 or jc3|<img src="https://tenor.com/view/tax-fraud-phucas-gif-20551750" height="100"/>|

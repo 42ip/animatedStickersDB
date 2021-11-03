@@ -1,4 +1,68 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "haha" }}
+{{if eq $a "shuttleBot" }}
+	https://tenor.com/view/poggers-space-pog-universe-gif-20447872
+{{else if eq $a "run" }}
+	https://tenor.com/view/bird-help-hands-up-running-bird-with-arms-gif-17945354
+{{else if eq $a "uajokevro" }}
+	https://tenor.com/view/pokemon-haunter-gengar-ghastly-ghost-gif-20456292
+{{else if eq $a "konnichiwa" }}
+	https://tenor.com/view/hecker-floppa-gif-23066957
+{{else if eq $a "oni" }}
+	https://tenor.com/view/anime-manga-onii-chan-japanese-anime-japanese-manga-gif-5510123
+{{else if eq $a "linux" }}
+	https://tenor.com/view/alicini-sink-drown-stuffed-toy-penguin-gif-16530613
+{{else if eq $a "L" }}
+	https://tenor.com/view/mayweather-for-you-throw-gif-8082067
+{{else if eq $a "analyse" }}
+	https://tenor.com/view/kowalski-analysis-thinking-seriously-gif-12855053
+{{ else if or (eq $a "m2m" ) (eq $a "cpr" ) }}
+	https://tenor.com/view/spongebob-patrick-squidward-cpr-gif-8690547
+{{ else if or (eq $a "cofe3" ) (eq $a "dum" ) }}
+	https://tenor.com/view/dum-gif-6183293
+{{else if eq $a "lick" }}
+	https://tenor.com/view/gah-weird-gif-11421000
+{{else if eq $a "scaredhamster" }}
+	https://tenor.com/view/see-it-like-final-hamster-scared-gif-14498643
+{{ else if or (eq $a "whencarptonline" ) (eq $a "wco" ) }}
+	https://tenor.com/view/cat-scared-back-away-close-door-gif-15554720
+{{else if eq $a "together" }}
+	https://tenor.com/view/apes-together-strong-0p1sf-gif-20906166
+{{else if eq $a "unsee" }}
+	https://tenor.com/view/ugh-what-a-day-frustrated-weird-gif-12613646
+{{else if eq $a "linkin" }}
+	https://c.tenor.com/W3hHGgBbgdgAAAAS/venti-sad.gif
+{{else if eq $a "astro" }}
+	https://c.tenor.com/UOsInWffW6QAAAAM/astronaut-swimming-star.gif
+{{else if eq $a "thumb" }}
+	https://c.tenor.com/yvYyh_aS9esAAAAS/grilla-yes.gif
+{{else if eq $a "birdd" }}
+	https://c.tenor.com/IwdYJ9btmKQAAAAS/dancing-duck.gif
+{{else if eq $a "kambli" }}
+	https://image.ibb.co/feBkOy/PRA.png
+{{else if eq $a "hshake4" }}
+	https://c.tenor.com/DS5SlsfRIVQAAAAS/anime-dap.gif
+{{else if eq $a "hmm" }}
+	https://c.tenor.com/Hiz2y3nY4bYAAAAS/tanaka-cinco5-haikyuu.gif
+{{else if eq $a "shut" }}
+	https://cdn.discordapp.com/emojis/857443918605975603.png?size=128
+{{else if eq $a "haha" }}
 	https://cdn.discordapp.com/emojis/750544340505591930.png?size=128
+{{else if eq $a "crydrink2" }}
+	https://media.discordapp.net/attachments/881071746415992852/905391637163835402/Screenshot_2021-10-24-22-40-48-96_1c337646f29875672b5a61192b9010f9.jpeg?width=323&height=375
+{{else if eq $a "justfuckingendme" }}
+	https://tenor.com/view/lndspk-skycat-gif-20867310
+{{else if eq $a "hello" }}
+	https://tenor.com/view/hey-friend-penguin-hello-wave-gif-10530536
+{{ else if or (eq $a "jumpcat2" ) (eq $a "jc2" ) }}
+	https://tenor.com/view/happy-dance-cat-cat-dancing-friday-gif-9016231
+{{else if eq $a "superidol" }}
+	https://tenor.com/view/super-idol-social-credits-gif-23422258
+{{ else if or (eq $a "twerkmongus" ) (eq $a "twa" ) }}
+	https://tenor.com/view/halfcat-simdemocracy-among-us-gif-22117762
+{{else if eq $a "danceamongus" }}
+	https://tenor.com/view/among-us-gif-18628600
+{{ else if or (eq $a "hisucry" ) (eq $a "prashcry" ) }}
+	https://cdn.discordapp.com/emojis/853959177017753630.png?size=128
+{{ else if or (eq $a "jumpcat3" ) (eq $a "jc3" ) }}
+	https://tenor.com/view/tax-fraud-phucas-gif-20551750
 {{end}}

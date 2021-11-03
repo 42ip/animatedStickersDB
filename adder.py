@@ -26,7 +26,12 @@ while cont:
             cont = False
     else:
         d[c] = a
-obj = json.dumps(d,indent= 1)
+test = dict()
+count = 1
+for key in d:
+    test[count] = d[key]
+    count += 1
+obj = json.dumps(test,indent= 1)
 with open(sys.path[0] + "/stickers.json", "w") as outfile:
     outfile.write(obj)
 mdMaker(d)
