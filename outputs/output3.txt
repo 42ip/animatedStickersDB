@@ -1,5 +1,9 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "shuttleBot" }}
+{{if eq $a "phile2" }}
+	https://tenor.com/view/kfc-playas-gif-22990032
+{{else if eq $a "hshake3" }}
+	https://tenor.com/view/manly-handshake-fma-brotherhood-fma-armstrong-armstrong-handshake-gif-16567570
+{{else if eq $a "shuttleBot" }}
 	https://tenor.com/view/poggers-space-pog-universe-gif-20447872
 {{else if eq $a "run" }}
 	https://tenor.com/view/bird-help-hands-up-running-bird-with-arms-gif-17945354
@@ -65,4 +69,16 @@
 	https://cdn.discordapp.com/emojis/853959177017753630.png?size=128
 {{ else if or (eq $a "jumpcat3" ) (eq $a "jc3" ) }}
 	https://tenor.com/view/tax-fraud-phucas-gif-20551750
+{{else if eq $a "kshksh" }}
+	https://media.discordapp.net/attachments/881071746415992852/906889841483079710/IMG_1425.jpeg?width=406&height=400
+{{else if eq $a "hehecat" }}
+	https://media.discordapp.net/attachments/881071746415992852/906889843135635486/IMG_1426.jpeg?width=370&height=400
+{{else if eq $a "wenotfriends" }}
+	https://media.discordapp.net/attachments/881071746415992852/906889843135635486/IMG_1426.jpeg?width=370&height=400
+{{else if eq $a "stoptalking" }}
+	https://media.discordapp.net/attachments/881071746415992852/906889844926591027/IMG_20211106_164612.jpeg?width=353&height=400
+{{else if eq $a "nothehecat" }}
+	https://media.discordapp.net/attachments/881071746415992852/906889847074062336/IMG_1427.jpeg?width=370&height=400
+{{else if eq $a "spookicat" }}
+	https://media.discordapp.net/attachments/881071746415992852/906889850832191528/IMG_1428.jpeg?width=410&height=400
 {{end}}

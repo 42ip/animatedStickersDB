@@ -1,7 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
 {{if or (eq $a "stickers") (eq $a "gifs") (eq $a "gif") }}
 {{deleteTrigger 0 }}
-{{if eq (len .Args) 1}}L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka beluga belugagif birdd blobdance bonk bopcorn carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink crydrink2 dance danceamongus danceanim dancecat danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye haha happy hecker hehe hello hisucry hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko innocent jumpcat jumpcat2 jumpcat3 justfuckingendme kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat lesgo lick linkin linux lookatthiscat m2m mad mention monke mryeshappy myman notfair notfuni noti nou okayudance omg oni pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2 ragej rgbnou rock run runanime sad sadcat sadhorn sadpat salt sasa scared scaredhamster shoot shut shuttleBot si67 sigma simp sneak somethingweirdpgpwanted stuff superidol sus thanos think thomas thrash thumb together tonybhau twerkmongus uajokevro umaru unsee usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf yay yellowman yellowmanbig
+{{if eq (len .Args) 1}}L aaa adios ahegao analyse angery angrycarrot angryping astro auto awkward baka beluga belugagif birdd blobdance bonk bopcorn carpt catcry catface cathypervibe catpeep catree catultravibe catvibe choggers clown cofe cofe2 cofe3 cofexphile coffeeman comficat compro comradecat cool cooldance coomercat crydrink crydrink2 dance danceamongus danceanim dancecat danceduck dancin dankies dap depression dio drake empty fight flush funi getsomehelp goodbye haha happy hecker hehe hehecat hello hisucry hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko innocent jumpcat jumpcat2 jumpcat3 justfuckingendme kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat kshksh lesgo lick linkin linux lookatthiscat m2m mad mention monke mryeshappy myman notfair notfuni nothehecat noti nou okayudance omg oni pain party pat peped pepeoeye pgp phile phile2 ping prash pray pray2 ragej rgbnou rock run runanime sad sadcat sadhorn sadpat salt sasa scared scaredhamster shoot shut shuttleBot si67 sigma simp sneak somethingweirdpgpwanted spookicat stoptalking stuff superidol sus thanos think thomas thrash thumb together tonybhau twerkmongus uajokevro umaru unsee usewhenprashspeaks uwu vericool vibe vibin waa wave weeb wenotfriends wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf yay yellowman yellowmanbig
 {{else if eq (len .Args) 2}}
 {{$b := index .CmdArgs 1}}
 {{ if eq (lower $b) "a"}}
@@ -19,19 +19,19 @@ fight flush funi
 {{else if eq (lower $b) "g"}}
 getsomehelp goodbye
 {{else if eq (lower $b) "h"}}
-haha happy hecker hehe hello hisucry hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko
+haha happy hecker hehe hehecat hello hisucry hitprash hmm hshake hshake2 hshake3 hshake4 hyper hyperneko
 {{else if eq (lower $b) "i"}}
 innocent
 {{else if eq (lower $b) "j"}}
 jumpcat jumpcat2 jumpcat3 justfuckingendme
 {{else if eq (lower $b) "k"}}
-kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat
+kambli kek kickout kirbydance kittypet konnichiwa kpray kripaleat kshksh
 {{else if eq (lower $b) "l"}}
 L lesgo lick linkin linux lookatthiscat
 {{else if eq (lower $b) "m"}}
 m2m mad mention monke mryeshappy myman
 {{else if eq (lower $b) "n"}}
-notfair notfuni noti nou
+notfair notfuni nothehecat noti nou
 {{else if eq (lower $b) "o"}}
 okayudance omg oni
 {{else if eq (lower $b) "p"}}
@@ -41,7 +41,7 @@ none found :(
 {{else if eq (lower $b) "r"}}
 ragej rgbnou rock run runanime
 {{else if eq (lower $b) "s"}}
-sad sadcat sadhorn sadpat salt sasa scared scaredhamster shoot shut shuttleBot si67 sigma simp sneak somethingweirdpgpwanted stuff superidol sus
+sad sadcat sadhorn sadpat salt sasa scared scaredhamster shoot shut shuttleBot si67 sigma simp sneak somethingweirdpgpwanted spookicat stoptalking stuff superidol sus
 {{else if eq (lower $b) "t"}}
 thanos think thomas thrash thumb together tonybhau twerkmongus
 {{else if eq (lower $b) "u"}}
@@ -49,7 +49,7 @@ uajokevro umaru unsee usewhenprashspeaks uwu
 {{else if eq (lower $b) "v"}}
 vericool vibe vibin
 {{else if eq (lower $b) "w"}}
-waa wave weeb wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf
+waa wave weeb wenotfriends wha whaaa whencarptonline wherebanana whoasked wildchan wtf wtf
 {{else if eq (lower $b) "x"}}
 none found :(
 {{else if eq (lower $b) "y"}}
@@ -154,6 +154,4 @@ none found :(
 	https://cdn.discordapp.com/emojis/488852810579050497.gif?v=1
 {{else if eq $a "okayudance" }}
 	https://cdn.discordapp.com/emojis/815366547602145281.gif?v=1
-{{else if eq $a "wildchan" }}
-	https://cdn.discordapp.com/emojis/585546801067851777.gif?v=1
 {{end}}

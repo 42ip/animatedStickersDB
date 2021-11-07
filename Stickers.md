@@ -173,3 +173,9 @@ All Stickers
 |danceamongus|<img src="https://tenor.com/view/among-us-gif-18628600" height="100"/>|
 |hisucry or prashcry|<img src="https://cdn.discordapp.com/emojis/853959177017753630.png?size=128" height="100"/>|
 |jumpcat3 or jc3|<img src="https://tenor.com/view/tax-fraud-phucas-gif-20551750" height="100"/>|
+|kshksh|<img src="https://media.discordapp.net/attachments/881071746415992852/906889841483079710/IMG_1425.jpeg?width=406&height=400" height="100"/>|
+|hehecat|<img src="https://media.discordapp.net/attachments/881071746415992852/906889843135635486/IMG_1426.jpeg?width=370&height=400" height="100"/>|
+|wenotfriends|<img src="https://media.discordapp.net/attachments/881071746415992852/906889843135635486/IMG_1426.jpeg?width=370&height=400" height="100"/>|
+|stoptalking|<img src="https://media.discordapp.net/attachments/881071746415992852/906889844926591027/IMG_20211106_164612.jpeg?width=353&height=400" height="100"/>|
+|nothehecat|<img src="https://media.discordapp.net/attachments/881071746415992852/906889847074062336/IMG_1427.jpeg?width=370&height=400" height="100"/>|
+|spookicat|<img src="https://media.discordapp.net/attachments/881071746415992852/906889850832191528/IMG_1428.jpeg?width=410&height=400" height="100"/>|
