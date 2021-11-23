@@ -175,7 +175,13 @@ All Stickers
 |jumpcat3 or jc3|<img src="https://tenor.com/view/tax-fraud-phucas-gif-20551750" height="100"/>|
 |kshksh|<img src="https://media.discordapp.net/attachments/881071746415992852/906889841483079710/IMG_1425.jpeg?width=406&height=400" height="100"/>|
 |hehecat|<img src="https://media.discordapp.net/attachments/881071746415992852/906889843135635486/IMG_1426.jpeg?width=370&height=400" height="100"/>|
-|wenotfriends|<img src="https://media.discordapp.net/attachments/881071746415992852/906889843135635486/IMG_1426.jpeg?width=370&height=400" height="100"/>|
+|wenotfriends|<img src="https://media.discordapp.net/attachments/881071746415992852/906889844234547251/IMG_20211106_164449.jpeg?width=407&height=399" height="100"/>|
 |stoptalking|<img src="https://media.discordapp.net/attachments/881071746415992852/906889844926591027/IMG_20211106_164612.jpeg?width=353&height=400" height="100"/>|
 |nothehecat|<img src="https://media.discordapp.net/attachments/881071746415992852/906889847074062336/IMG_1427.jpeg?width=370&height=400" height="100"/>|
 |spookicat|<img src="https://media.discordapp.net/attachments/881071746415992852/906889850832191528/IMG_1428.jpeg?width=410&height=400" height="100"/>|
+|noted|<img src="https://emoji.gg/assets/emoji/7809-pepe-noted.gif" height="100"/>|
+|phile3|<img src="https://c.tenor.com/M-B5z5bY3d4AAAAC/aot-attack-on-titans.gif" height="100"/>|
+|ded|<img src="https://c.tenor.com/0A1Guq_rsOMAAAAC/celebrating-celebration.gif" height="100"/>|
+|sasa2|<img src="https://c.tenor.com/gNPulRJaqfYAAAAd/mikasa-aot.gif" height="100"/>|
+|hshake4|<img src="https://c.tenor.com/s67z4rzO6J0AAAAC/handshake-pokemon.gif" height="100"/>|
+|tata|<img src="https://c.tenor.com/AJF9BFYmgvgAAAAd/pani-poni-dash-ichijou.gif" height="100"/>|

@@ -1,5 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "wildchan" }}
+{{if eq $a "okayudance" }}
+	https://cdn.discordapp.com/emojis/815366547602145281.gif?v=1
+{{else if eq $a "wildchan" }}
 	https://cdn.discordapp.com/emojis/585546801067851777.gif?v=1
 {{else if eq $a "whaaa" }}
 	https://cdn.discordapp.com/emojis/857443332228382721.gif?v=1
@@ -169,6 +171,4 @@
 	https://c.tenor.com/1mEavGypjfYAAAAC/awkward-laugh.gif
 {{else if eq $a "thomas" }}
 	https://c.tenor.com/t0LioUBjxlEAAAAM/cursed.gif
-{{else if eq $a "sigma" }}
-	https://tenor.com/view/salty-gif-23140207
 {{end}}
