@@ -91,7 +91,7 @@
 	https://c.tenor.com/0A1Guq_rsOMAAAAC/celebrating-celebration.gif
 {{else if eq $a "sasa2" }}
 	https://c.tenor.com/gNPulRJaqfYAAAAd/mikasa-aot.gif
-{{else if eq $a "hshake4" }}
+{{else if eq $a "hshake5" }}
 	https://c.tenor.com/s67z4rzO6J0AAAAC/handshake-pokemon.gif
 {{else if eq $a "tata" }}
 	https://c.tenor.com/AJF9BFYmgvgAAAAd/pani-poni-dash-ichijou.gif
