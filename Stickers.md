@@ -185,3 +185,13 @@ All Stickers
 |sasa2|<img src="https://c.tenor.com/gNPulRJaqfYAAAAd/mikasa-aot.gif" height="100"/>|
 |hshake5|<img src="https://c.tenor.com/s67z4rzO6J0AAAAC/handshake-pokemon.gif" height="100"/>|
 |tata|<img src="https://c.tenor.com/AJF9BFYmgvgAAAAd/pani-poni-dash-ichijou.gif" height="100"/>|
+|notnow|<img src="https://c.tenor.com/q1pA-20S6JsAAAAS/anime-gintama.gif" height="100"/>|
+|drum|<img src="https://c.tenor.com/v_MurQd3l7cAAAAS/drums-drum.gif" height="100"/>|
+|strum|<img src="https://c.tenor.com/AC1fGZ6TZawAAAAS/rock-on-jam.gif" height="100"/>|
+|lesgo2|<img src="https://i.makeagif.com/media/7-01-2016/e2DfVE.gif" height="100"/>|
+|beaut|<img src="https://c.tenor.com/peuqWYmwHscAAAAS/tears-of-joy-clapping.gif" height="100"/>|
+|mok|<img src="https://c.tenor.com/I7qgI3hGcM4AAAAS/crying-happy.gif" height="100"/>|
+|notfair2|<img src="https://c.tenor.com/9_mdGGff8fQAAAAC/nichijou-prick.gif" height="100"/>|
+|happy2|<img src="https://giffiles.alphacoders.com/138/138265.gif" height="100"/>|
+|please or pls|<img src="https://c.tenor.com/pB3a8jYhU4wAAAAC/sorry-gomenasai.gif" height="100"/>|
+|hshake6|<img src="https://c.tenor.com/2Ib5r3IjRsUAAAAS/shake-hand.gif" height="100"/>|

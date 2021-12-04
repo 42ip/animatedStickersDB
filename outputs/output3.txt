@@ -1,5 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "sigma" }}
+{{if eq $a "thomas" }}
+	https://c.tenor.com/t0LioUBjxlEAAAAM/cursed.gif
+{{else if eq $a "sigma" }}
 	https://tenor.com/view/salty-gif-23140207
 {{else if eq $a "phile2" }}
 	https://tenor.com/view/kfc-playas-gif-22990032
@@ -95,4 +97,24 @@
 	https://c.tenor.com/s67z4rzO6J0AAAAC/handshake-pokemon.gif
 {{else if eq $a "tata" }}
 	https://c.tenor.com/AJF9BFYmgvgAAAAd/pani-poni-dash-ichijou.gif
+{{else if eq $a "notnow" }}
+	https://c.tenor.com/q1pA-20S6JsAAAAS/anime-gintama.gif
+{{else if eq $a "drum" }}
+	https://c.tenor.com/v_MurQd3l7cAAAAS/drums-drum.gif
+{{else if eq $a "strum" }}
+	https://c.tenor.com/AC1fGZ6TZawAAAAS/rock-on-jam.gif
+{{else if eq $a "lesgo2" }}
+	https://i.makeagif.com/media/7-01-2016/e2DfVE.gif
+{{else if eq $a "beaut" }}
+	https://c.tenor.com/peuqWYmwHscAAAAS/tears-of-joy-clapping.gif
+{{else if eq $a "mok" }}
+	https://c.tenor.com/I7qgI3hGcM4AAAAS/crying-happy.gif
+{{else if eq $a "notfair2" }}
+	https://c.tenor.com/9_mdGGff8fQAAAAC/nichijou-prick.gif
+{{else if eq $a "happy2" }}
+	https://giffiles.alphacoders.com/138/138265.gif
+{{ else if or (eq $a "please" ) (eq $a "pls" ) }}
+	https://c.tenor.com/pB3a8jYhU4wAAAAC/sorry-gomenasai.gif
+{{else if eq $a "hshake6" }}
+	https://c.tenor.com/2Ib5r3IjRsUAAAAS/shake-hand.gif
 {{end}}
