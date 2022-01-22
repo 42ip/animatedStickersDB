@@ -1,5 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "hyperneko" }}
+{{if eq $a "bopcorn" }}
+	https://cdn.discordapp.com/emojis/786776192912457749.gif?v=1
+{{else if eq $a "hyperneko" }}
 	https://cdn.discordapp.com/emojis/488852810579050497.gif?v=1
 {{else if eq $a "okayudance" }}
 	https://cdn.discordapp.com/emojis/815366547602145281.gif?v=1
@@ -169,6 +171,4 @@
 	https://tenor.com/view/dance-fun-happy-retro-gif-10736279
 {{ else if or (eq $a "kpray" ) (eq $a "kripalpray" ) }}
 	https://media1.tenor.com/images/be6135b6c6f81ad92fbda287daaebcea/tenor.gif?itemid=23349154
-{{else if eq $a "awkward" }}
-	https://c.tenor.com/1mEavGypjfYAAAAC/awkward-laugh.gif
 {{end}}

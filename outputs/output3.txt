@@ -1,5 +1,7 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "thomas" }}
+{{if eq $a "awkward" }}
+	https://c.tenor.com/1mEavGypjfYAAAAC/awkward-laugh.gif
+{{else if eq $a "thomas" }}
 	https://c.tenor.com/t0LioUBjxlEAAAAM/cursed.gif
 {{else if eq $a "sigma" }}
 	https://tenor.com/view/salty-gif-23140207
@@ -117,4 +119,12 @@
 	https://c.tenor.com/pB3a8jYhU4wAAAAC/sorry-gomenasai.gif
 {{else if eq $a "hshake6" }}
 	https://c.tenor.com/2Ib5r3IjRsUAAAAS/shake-hand.gif
+{{else if eq $a "innocat" }}
+	https://c.tenor.com/X_QaeEQDhRQAAAAC/hello-kitty.gif
+{{ else if or (eq $a "jc4" ) (eq $a "jumpcat4" ) }}
+	https://c.tenor.com/B3N-_ll0bVsAAAAC/cats-dance-kiyyasia.gif
+{{else if eq $a "che" }}
+	https://c.tenor.com/t9a2pNkibDEAAAAC/khichdi-shey-shey-shey-shya-shya-shya-che-che-che.gif
+{{else if eq $a "phile4" }}
+	https://c.tenor.com/epbIhHm2cHcAAAAC/danish-sait-rammurthy-avare.gif
 {{end}}
