@@ -1,3 +1,4 @@
+# DEPRECIATED
 # loop to add emojis to the .json file.
 import json,sys,os
 d = dict()

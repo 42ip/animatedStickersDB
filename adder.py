@@ -1,3 +1,4 @@
+# DEPRECIATED
 # loop to add emojis to the .json file.
 from mdMaker import mdMaker
 import json,sys

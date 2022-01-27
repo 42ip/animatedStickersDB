@@ -1,3 +1,4 @@
+# DEPRECIATED
 def mdMaker(connections : dict):
     from mdutils.mdutils import MdUtils
     from mdutils import Html
