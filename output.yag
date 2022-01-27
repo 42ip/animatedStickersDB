@@ -1,5 +1,5 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{$b := cslice "ymbig" "sasa2" "ahegao" "hshake" "pray" "analyse" "run" "notnow" "kambli" "tonybhau" "sadcat" "wha" "garbage" "twa" "aaa" "carpt" "jumpcat2" "phile4" "vibin" "jumpcat3" "wave" "mention" "dio" "innocent" "dankies" "happy2" "uajokevro" "" "ping" "cool" "hello" "monke" "drum" "pray2" "beaut" "flush" "baka" "comficat" "shut" "catcry" "together" "jumpcat4" "phile2" "wildchan" "strum" "astro" "phile3" "think" "clown" "nothehecat" "cathypervibe" "tata" "danceamongus" "jc4" "kripalpray" "umaru" "fight" "dancedood" "uwu" "notfuni" "hyperneko" "cooldance" "pain" "jumpcat" "birdd" "antisigma" "hehecat" "noti" "weeb" "angrycarrot" "whoasked" "hyper" "cofe" "si67" "whencarptonline" "dap" "notfair" "jc2" "depression" "mryeshappy" "superidol" "hmm" "kickout" "somethingweirdpgpwanted" "catvibe" "nou" "justfuckingendme" "scaredhamster" "jc3" "hisucry" "shoot" "vibe" "thomas" "drake" "crydrink2" "lookatthiscat" "sadhorn" "kirbydance" "danceanim" "thumb" "simp" "angryping" "ym" "che" "sus" "rgbnou" "funi" "happy" "kek" "dance" "sneaky" "auto" "goodbye" "stoptalking" "vericool" "m2m" "hecker" "spookicat" "lesgo2" "unsee" "comradecat" "wtf" "hehe" "lick" "whaaa" "wco" "getsomehelp" "haha" "prashcry" "shuttleBot" "belugagif" "prash" "please" "bonk" "catvibe3" "cpr" "kpray" "kripaleat" "lesgo" "catultravibe" "happykitty" "L" "catvibe2" "wherebanana" "sad" "beluga" "cofe2" "kshksh" "choggers" "dancin" "yay" "waa" "pgp" "cofe3" "dum" "salt" "catpeep" "notfair2" "yellowman" "empty" "omg" "stuff" "myman" "awkward" "kittypet" "okayudance" "jc" "konnichiwa" "sadpat" "ded" "phile" "thanos" "crydrink" "yellowmanbig" "pat" "angery" "pls" "hshake2" "hshake3" "hitprash" "uwps" "blobdance" "oni" "mad" "party" "dancecat" "twerkmongus" "thrash" "sneak" "mok" "wenotfriends" "bopcorn" "adios" "linux" "compro" "hshake6" "rock" "peped" "danceduck" "coffeeman" "sasa" "scared" "cofexphile" "innocat" "coomercat" "ragej" "catface" "pepeoeye" "runanime" "hshake4" "catree" "hshake5" "usewhenprashspeaks" "sigma" "linkin" "noted" }} 
+{{$b := cslice "" "L" "aaa" "adios" "ahegao" "analyse" "angery" "angrycarrot" "angryping" "antisigma" "astro" "auto" "awkward" "baka" "beaut" "beluga" "belugagif" "birdd" "blobdance" "bonk" "bopcorn" "carpt" "catcry" "catface" "cathypervibe" "catpeep" "catree" "catultravibe" "catvibe" "catvibe2" "catvibe3" "che" "choggers" "clown" "cofe" "cofe2" "cofe3" "cofexphile" "coffeeman" "comficat" "compro" "comradecat" "cool" "cooldance" "coomercat" "cpr" "crydrink" "crydrink2" "dance" "danceamongus" "danceanim" "dancecat" "dancedood" "danceduck" "dancin" "dankies" "dap" "ded" "depression" "dio" "drake" "drum" "dum" "empty" "fight" "flush" "funi" "garbage" "getsomehelp" "goodbye" "haha" "happy" "happy2" "happykitty" "hecker" "hehe" "hehecat" "hello" "hisucry" "hitprash" "hmm" "hshake" "hshake2" "hshake3" "hshake4" "hshake5" "hshake6" "hyper" "hyperneko" "innocat" "innocent" "jc" "jc2" "jc3" "jc4" "jumpcat" "jumpcat2" "jumpcat3" "jumpcat4" "justfuckingendme" "kambli" "kek" "kickout" "kirbydance" "kittypet" "konnichiwa" "kpray" "kripaleat" "kripalpray" "kshksh" "lesgo" "lesgo2" "lick" "linkin" "linux" "lookatthiscat" "m2m" "mad" "mention" "mok" "monke" "mryeshappy" "myman" "noted" "notfair" "notfair2" "notfuni" "nothehecat" "noti" "notnow" "nou" "okayudance" "omg" "oni" "pain" "party" "pat" "peped" "pepeoeye" "pgp" "phile" "phile2" "phile3" "phile4" "ping" "please" "pls" "prash" "prashcry" "pray" "pray2" "ragej" "rgbnou" "rock" "run" "runanime" "sad" "sadcat" "sadhorn" "sadpat" "salt" "sasa" "sasa2" "scared" "scaredhamster" "shoot" "shut" "shuttleBot" "si67" "sigma" "simp" "sneak" "sneaky" "somethingweirdpgpwanted" "spookicat" "stoptalking" "strum" "stuff" "superidol" "sus" "tata" "thanos" "think" "thomas" "thrash" "thumb" "together" "tonybhau" "twa" "twerkmongus" "uajokevro" "umaru" "unsee" "usewhenprashspeaks" "uwps" "uwu" "vericool" "vibe" "vibin" "waa" "wave" "wco" "weeb" "wenotfriends" "wha" "whaaa" "whencarptonline" "wherebanana" "whoasked" "wildchan" "wtf" "yay" "yellowman" "yellowmanbig" "ym" "ymbig"  }}
 {{if or (eq $a "stickers") (eq $a "gifs") (eq $a "gif") }} 
 	{{deleteTrigger 0 }}
 	{{if eq (len .Args) 1}}
@@ -7,15 +7,15 @@
 		{{$r}}
 	{{else if eq (len .Args) 2}}
 	 	{{$c := index .CmdArgs 1}}
-		{{if eq (len $c) 1}}
-			{{$s := cslice }}
-			{{range $b}}
-				{{if hasPrefix $a .}}
-					{{$s.Append .}}
-				{{end}}
-			{{end}}
-			{{$s}}
-		{{end}}
+		{{$s := cslice " " }}
+		{{range $index,$value := $b}}
+			{{- if hasPrefix $value $c -}}
+				{{$s = $s.Append $value}}
+			{{- end -}}
+		{{- end}}
+		{{$r := joinStr " " $s.StringSlice}}
+		{{$r := str $r}}
+		{{$r}}
 	{{end}}
 {{end}}
 {{range $b}} 
