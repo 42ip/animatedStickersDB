@@ -12,7 +12,7 @@ for name in names:
     n += "\"" + name + "\" "
 st += n
 st += """ }}
-{{if or (eq $a "stickers") (eq $a "gifs") (eq $a "gif") }} 
+{{if or (eq $a "stickers") (eq $a "gifs") (eq $a "gif") (eq $a "gifss") }} 
 	{{deleteTrigger 0 }}
 	{{if eq (len .Args) 1}}
 		{{$r := joinStr " " $b.StringSlice}}
@@ -21,7 +21,7 @@ st += """ }}
 	 	{{$c := index .CmdArgs 1}}
 		{{$s := cslice " " }}
 		{{range $index,$value := $b}}
-			{{- if hasPrefix $value $c -}}
+			{{- if  or (hasPrefix $value $c) ( and (eq $a "gifss" ) ( reFind $c $value ) ) -}}
 				{{$s = $s.Append $value}}
 			{{- end -}}
 		{{- end}}
