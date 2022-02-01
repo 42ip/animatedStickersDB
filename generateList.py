@@ -28,6 +28,7 @@ st += """ }}
 		{{$r := joinStr " " $s.StringSlice}}
 		{{$r := str $r}}
 		{{$r}}
+	{{ deleteResponse 30 }}
 	{{end}}
 {{end}}
 {{range $b}} 
