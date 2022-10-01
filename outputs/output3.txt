@@ -1,44 +1,46 @@
 {{$a :=  index .CmdArgs 0 }} 
-{{if eq $a "awkward" }}
+{{if or (eq $a "kpray" ) (eq $a "kripalpray" ) }}
+	https://media1.tenor.com/images/be6135b6c6f81ad92fbda287daaebcea/tenor.gif?itemid=23349154
+{{else if eq $a "awkward" }}
 	https://c.tenor.com/1mEavGypjfYAAAAC/awkward-laugh.gif
 {{else if eq $a "thomas" }}
 	https://c.tenor.com/t0LioUBjxlEAAAAM/cursed.gif
 {{else if eq $a "sigma" }}
-	https://tenor.com/view/salty-gif-23140207
+	https://c.tenor.com/4sEzZ26Nqp4AAAAd/salty.gif
 {{else if eq $a "phile2" }}
-	https://tenor.com/view/kfc-playas-gif-22990032
+	https://c.tenor.com/45AqX8QMwfAAAAAC/kfc-playas.gif
 {{else if eq $a "hshake3" }}
-	https://tenor.com/view/manly-handshake-fma-brotherhood-fma-armstrong-armstrong-handshake-gif-16567570
+	https://c.tenor.com/kPbvjinMD_0AAAAS/manly-handshake-fma-brotherhood.gif
 {{else if eq $a "shuttleBot" }}
-	https://tenor.com/view/poggers-space-pog-universe-gif-20447872
+	https://c.tenor.com/GjSzaZqWhqEAAAAC/poggers-space.gif
 {{else if eq $a "run" }}
-	https://tenor.com/view/bird-help-hands-up-running-bird-with-arms-gif-17945354
+	https://c.tenor.com/yBZL8HHI46AAAAAS/bird-help.gif
 {{else if eq $a "uajokevro" }}
-	https://tenor.com/view/pokemon-haunter-gengar-ghastly-ghost-gif-20456292
+	https://c.tenor.com/VAk2btYwi70AAAAC/pokemon-haunter.gif
 {{else if eq $a "konnichiwa" }}
-	https://tenor.com/view/hecker-floppa-gif-23066957
+	https://c.tenor.com/a9ZPf8llhpIAAAAS/hecker-floppa.gif
 {{else if eq $a "oni" }}
-	https://tenor.com/view/anime-manga-onii-chan-japanese-anime-japanese-manga-gif-5510123
+	https://c.tenor.com/OAKD38WOtEEAAAAC/anime-manga.gif
 {{else if eq $a "linux" }}
-	https://tenor.com/view/alicini-sink-drown-stuffed-toy-penguin-gif-16530613
+	https://c.tenor.com/VkVRJhFVon4AAAAS/alicini-sink.gif
 {{else if eq $a "L" }}
-	https://tenor.com/view/mayweather-for-you-throw-gif-8082067
+	https://c.tenor.com/sEYkJPsJfCwAAAAC/mayweather-for-you.gif
 {{else if eq $a "analyse" }}
-	https://tenor.com/view/kowalski-analysis-thinking-seriously-gif-12855053
+	https://c.tenor.com/u73m7ptH6cgAAAAC/kowalski-analysis-thinking.gif
 {{ else if or (eq $a "m2m" ) (eq $a "cpr" ) }}
-	https://tenor.com/view/spongebob-patrick-squidward-cpr-gif-8690547
+	https://c.tenor.com/uX7gEKFPFRIAAAAC/spongebob-patrick.gif
 {{ else if or (eq $a "cofe3" ) (eq $a "dum" ) }}
-	https://tenor.com/view/dum-gif-6183293
+	https://c.tenor.com/dvl9Ph16K48AAAAS/dum.gif
 {{else if eq $a "lick" }}
-	https://tenor.com/view/gah-weird-gif-11421000
+	https://c.tenor.com/uOh3AgwqsboAAAAC/gah-weird.gif
 {{else if eq $a "scaredhamster" }}
-	https://tenor.com/view/see-it-like-final-hamster-scared-gif-14498643
+	https://c.tenor.com/Ywxqrq9jg_4AAAAC/see-it-like-final.gif
 {{ else if or (eq $a "whencarptonline" ) (eq $a "wco" ) }}
-	https://tenor.com/view/cat-scared-back-away-close-door-gif-15554720
+	https://c.tenor.com/C1vR44Mr6voAAAAS/cat-scared.gif
 {{else if eq $a "together" }}
-	https://tenor.com/view/apes-together-strong-0p1sf-gif-20906166
+	https://c.tenor.com/j4CbS_5qRLIAAAAS/apes-together-strong-0p1sf.gif
 {{else if eq $a "unsee" }}
-	https://tenor.com/view/ugh-what-a-day-frustrated-weird-gif-12613646
+	https://c.tenor.com/99GukKTk-gYAAAAS/ugh-what-a-day.gif
 {{else if eq $a "linkin" }}
 	https://c.tenor.com/W3hHGgBbgdgAAAAS/venti-sad.gif
 {{else if eq $a "astro" }}
@@ -60,21 +62,21 @@
 {{else if eq $a "crydrink2" }}
 	https://media.discordapp.net/attachments/881071746415992852/905391637163835402/Screenshot_2021-10-24-22-40-48-96_1c337646f29875672b5a61192b9010f9.jpeg?width=323&height=375
 {{else if eq $a "justfuckingendme" }}
-	https://tenor.com/view/lndspk-skycat-gif-20867310
+	https://c.tenor.com/RpHv6PAy8-0AAAAd/lndspk-skycat.gif
 {{else if eq $a "hello" }}
-	https://tenor.com/view/hey-friend-penguin-hello-wave-gif-10530536
+	https://c.tenor.com/kNq-zi8X4VoAAAAC/hey-friend-penguin.gif
 {{ else if or (eq $a "jumpcat2" ) (eq $a "jc2" ) }}
-	https://tenor.com/view/happy-dance-cat-cat-dancing-friday-gif-9016231
+	https://c.tenor.com/QEHAjVj4MtQAAAAS/happy-dance-cat.gif
 {{else if eq $a "superidol" }}
-	https://tenor.com/view/super-idol-social-credits-gif-23422258
+	https://c.tenor.com/4POlho1meeoAAAAS/super-idol-social-credits.gif
 {{ else if or (eq $a "twerkmongus" ) (eq $a "twa" ) }}
-	https://tenor.com/view/halfcat-simdemocracy-among-us-gif-22117762
+	https://c.tenor.com/cUpVSPi9J6AAAAAC/halfcat-simdemocracy.gif
 {{else if eq $a "danceamongus" }}
-	https://tenor.com/view/among-us-gif-18628600
+	https://c.tenor.com/wr92a_mqWVMAAAAS/among-us.gif
 {{ else if or (eq $a "hisucry" ) (eq $a "prashcry" ) }}
 	https://cdn.discordapp.com/emojis/853959177017753630.png?size=128
 {{ else if or (eq $a "jumpcat3" ) (eq $a "jc3" ) }}
-	https://tenor.com/view/tax-fraud-phucas-gif-20551750
+	https://c.tenor.com/CuHb-gBQrgEAAAAS/tax-fraud-phucas.gif
 {{else if eq $a "kshksh" }}
 	https://media.discordapp.net/attachments/881071746415992852/906889841483079710/IMG_1425.jpeg?width=406&height=400
 {{else if eq $a "hehecat" }}
